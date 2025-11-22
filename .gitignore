@@ -1,3 +1,5 @@
+anaconda_projects/
+
 # Cloud auth files
 authorized_key.json
 
